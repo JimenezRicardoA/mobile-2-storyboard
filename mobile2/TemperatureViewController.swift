@@ -15,6 +15,7 @@ class TemperatureViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.title = "Temperature Converter"
 
         // Do any additional setup after loading the view.
     }
